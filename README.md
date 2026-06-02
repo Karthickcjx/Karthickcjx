@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Karthick%20Raja%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20%26%20Full-Stack%20Developer%20%7C%20AWS%20Serverless%20%7C%20CI%2FCD%20Enthusiast&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Karthick%20Raja%20G&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=DevOps%20%26%20Full-Stack%20Developer%20%7C%20AWS%20Serverless%20%7C%20CI%2FCD%20Enthusiast&amp;descAlignY=62&amp;descSize=16" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Karthickcjx">
-    <img src="https://komarev.com/ghpvc/?username=Karthickcjx&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Karthickcjx&amp;label=Profile+Views&amp;color=70a5fd&amp;style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://linkedin.com/in/karthick-raja-520421263">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   <a href="mailto:karthick.ganesan077@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-karthick.ganesan077-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-karthick.ganesan077-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" />
   </a>
   <a href="https://github.com/Karthickcjx">
-    <img src="https://img.shields.io/badge/GitHub-Karthickcjx-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Karthickcjx-181717?style=flat-square&amp;logo=github&amp;logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Karthick+Raja+%F0%9F%91%8B;DevOps+%26+Full-Stack+Developer;AWS+Serverless+%7C+Docker+%7C+CI%2FCD;Building+Scalable+Cloud-Native+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hey+there%2C+I'm+Karthick+Raja+%F0%9F%91%8B;DevOps+%26+Full-Stack+Developer;AWS+Serverless+%7C+Docker+%7C+CI%2FCD;Building+Scalable+Cloud-Native+Systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -104,10 +104,10 @@ const karthickRaja = {
 
 <div align="center">
   <a href="https://github.com/Karthickcjx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karthickcjx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karthickcjx&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10" />
   </a>
   <a href="https://github.com/Karthickcjx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthickcjx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthickcjx&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" />
   </a>
 </div>
 
@@ -116,7 +116,7 @@ const karthickRaja = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Karthickcjx&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=Karthickcjx&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" />
 </div>
 
 ---
@@ -124,7 +124,7 @@ const karthickRaja = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthickcjx&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthickcjx&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" />
 </div>
 
 ---
@@ -132,7 +132,7 @@ const karthickRaja = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karthickcjx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Karthickcjx&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" />
 </div>
 
 ---
@@ -140,7 +140,7 @@ const karthickRaja = {
 ## 💼 Work Experience
 
 <details>
-  <summary><b>☁️ Internshala — Cloud & Serverless Developer Intern &nbsp;|&nbsp; May 2025 – Jun 2025 &nbsp;|&nbsp; Remote</b></summary>
+  <summary><b>☁️ Internshala — Cloud &amp; Serverless Developer Intern &nbsp;|&nbsp; May 2025 – Jun 2025 &nbsp;|&nbsp; Remote</b></summary>
   <br/>
 
   > `AWS Lambda` `API Gateway` `DynamoDB` `S3` `CloudFront` `Python` `Node.js` `Serverless`
@@ -215,18 +215,18 @@ const karthickRaja = {
   <b>Let's connect and build something awesome together! 🚀</b>
   <br/><br/>
   <a href="mailto:karthick.ganesan077@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/karthick-raja-520421263">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/Karthickcjx">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
   </a>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" />
 </p>
