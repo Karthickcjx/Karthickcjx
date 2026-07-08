@@ -32,7 +32,6 @@ const karthickRaja = {
   name        : "Karthick Raja G",
   location    : "Tamil Nadu, India 🇮🇳",
   degree      : "B.Tech in Information Technology (2022–2026)",
-  cgpa        : 7.8,
 
   stack: [
     "JavaScript", "Node.js", "React.js", "Python", "Java",
